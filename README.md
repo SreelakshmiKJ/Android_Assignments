@@ -29,4 +29,4 @@ This repository contains solutions to 3 assignment problems for the Software Sys
 - Fetches weather data from mock API and stores locally
 - Auto-syncs every 6 hours
 
-➡️ [Go to Q3](./Q3_WeatherTrack/README.md)
+➡️ [Go to Q3](./Q3_WeatherTrack/app/src/main/README.md)
