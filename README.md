@@ -1,5 +1,5 @@
 
-This repository contains solutions to 3 assignment problems for the Software Systems course.
+This repository contains solutions to 3 assignment problems for the Andrid Assignment (Set 2).
 
 ---
 
